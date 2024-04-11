@@ -8,7 +8,7 @@ this repo is made to share a valuable knowledge of data structure in the simples
 Welcome to the "Data Structures for Beginners to Advance" repository! Here you will find a comprehensive collection of data structure implementations, explanations, and resources curated to help beginners understand and advance users deepen their knowledge.
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-For%20Beginners%20to%20Advance-blue?style=flat-square)
-![Language](https://img.shields.io/badge/Language-JavaScript-orange?style=flat-square)
+![Language](https://img.shields.io/badge/Language-C++-orange?style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors/yourusername/your-repo?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
 
