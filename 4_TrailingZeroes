@@ -1,0 +1,30 @@
+//to calculate factorial
+// then
+// finding number of zeros in last
+#include<iostream>
+using namespace std;
+int fact(int n)
+{
+if(n==0)
+return 1;
+else
+return n*fact(n-1);
+}
+int trail(int a)
+{int ct=0;
+    while(a>0)
+    {
+        if(a%10==0)
+        ct++;
+        a/=10;
+    }
+    return ct;
+}
+int main()
+{
+    cout<<"enter a number = ";
+    int a;
+    cin>>a;
+    int res = fact(a);
+    cout<<"number of zeroes in last is = "<<trail(res);
+}
